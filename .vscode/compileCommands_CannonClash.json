@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClash.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_CannonClash\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_CannonClash\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_CannonClash\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	}
+]
