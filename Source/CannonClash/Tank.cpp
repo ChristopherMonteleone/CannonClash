@@ -90,9 +90,9 @@ void ATank::UpdateMovementInput()
 
 void ATank::Fire()
 {
-    /*if (bAlive) {
+    if (bAlive) {
         Super::Fire();
-    }*/
+    }
 }
 
 void ATank::BeginDash() {
