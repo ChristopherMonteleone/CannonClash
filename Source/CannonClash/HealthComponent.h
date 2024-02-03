@@ -14,6 +14,8 @@ class CANNONCLASH_API UHealthComponent : public UActorComponent
 public:
 	// Sets default values for this component's properties
 	UHealthComponent();
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Health")
+	float CurrentHealth = 0.f;
 
 protected:
 	// Called when the game starts
@@ -22,7 +24,6 @@ protected:
 private:
 	UPROPERTY(EditAnywhere)
 	float MaxHealth = 100.f;
-	float Health = 0.f;
 
 	UFUNCTION()
 	void DamageTaken(AActor *DamagedActor, float Damage, const UDamageType *DamageType, class AController *Instigator, AActor *DamageCauser);

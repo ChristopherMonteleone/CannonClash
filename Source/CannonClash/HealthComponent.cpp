@@ -20,7 +20,7 @@ void UHealthComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	Health = MaxHealth;
+	CurrentHealth = MaxHealth;
 
 	GetOwner()->OnTakeAnyDamage.AddDynamic(this, &UHealthComponent::DamageTaken);
 	CannonClashGameMode = Cast<ACannonClashGameMode>(UGameplayStatics::GetGameMode(this));
@@ -38,8 +38,8 @@ void UHealthComponent::DamageTaken(AActor *DamagedActor, float Damage, const UDa
 {
 	if (Damage <= 0.f) return;
 
-	Health -= Damage;
-	if (Health <= 0.f && CannonClashGameMode)
+	CurrentHealth -= Damage;
+	if (CurrentHealth <= 0.f && CannonClashGameMode)
 	{
 		CannonClashGameMode->ActorDied(DamagedActor);
 	}
