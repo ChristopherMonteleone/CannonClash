@@ -1,5 +1,21 @@
 [
 	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\BasePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\BasePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClash.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -17,6 +33,102 @@
 	},
 	{
 		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClashGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClashGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClashPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\CannonClashPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\EnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\EnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Projectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Projectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Tank.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Tank.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Tower.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
+		],
+		"directory": "F:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProjects2\\CannonClash\\Source\\CannonClash\\Tower.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\UnrealEngineProjects2\\CannonClash\\.vscode\\compileCommands_Default\\CannonClash.1.rsp"
