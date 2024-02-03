@@ -25,10 +25,10 @@ protected:
     TSubclassOf<ATower> EnemyClass;
 
     UPROPERTY(EditAnywhere)
-    float MinSpawnDistance = 5.0f;
+    float MinSpawnDistance = 500.0f;
 
     UPROPERTY(EditAnywhere)
-    float MaxSpawnDistance = 10.0f;
+    float MaxSpawnDistance = 1000.0f;
 
     UPROPERTY(EditAnywhere)
     float SpawnRate = 2.5f;
