@@ -6,7 +6,7 @@
 <h2>Features</h2>
 <ul>
   <li><strong>Dynamic Gameplay</strong>: Experience a responsive top-down shooter with a full game loop, engaging players from start to finish.</li>
-  <li><strong>Procedural Generation</strong>: Explore diverse environments created with Unreal Engine's Procedural Generation tools, ensuring each game session is unique and exhilarating.</li>
+  <li><strong>Procedural Generation</strong>: Explore diverse environments created with Unreal Engine's Procedural Generation tools.</li>
   <li><strong>Stunning Visual Effects</strong>: Be mesmerized by captivating visual effects powered by Unreal Engine's Niagara system, enhancing the immersive experience.</li>
   <li><strong>Scalable Difficulty</strong>: Face increasing challenges as you progress, with a difficulty curve that keeps the gameplay exciting and rewarding.</li>
   <li><strong>Upgrade System</strong>: Strategically upgrade your arsenal to tackle tougher opponents and advance through levels.</li>
